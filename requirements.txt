@@ -1,0 +1,3 @@
+numpy
+pandas
+playwright   # lookup + mvt records only; then: python -m playwright install chromium
